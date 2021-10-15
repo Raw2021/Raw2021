@@ -12,3 +12,8 @@ Semoga Anda memahami berkaitan dengan kebijakan ini.
 Saya tertarik dengan GitHub
 Telah saya coba semoga berhasil
 Sampai jumpa...
+<!---
+Raw2021/Raw2021 is a 👍 special 👍 repository because its 'README.md' (thiis file) appears on your GitHub profile. You can click the Preview link to take a look at your changes
+.
+--->
+Terima kasih...
